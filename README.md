@@ -8,6 +8,8 @@
 - 😄 Pronouns: he/him
 
 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyajit-chakraborty-111a742a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumyajitc687@gmail.com) 
 
@@ -18,8 +20,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=S-Chakraborty163&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chakraborty163&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph.svg">
+</picture>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S-Chakraborty163&limit=5&theme=dark&combine_all_yearly_contributions=true)
