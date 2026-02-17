@@ -20,10 +20,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=S-Chakraborty163&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chakraborty163&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🎮 My Contributions Come to Life!
+
+Watch Pac-Man gobble up my contribution dots:
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-Chakraborty163/S-Chakraborty163/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-Chakraborty163/S-Chakraborty163/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/S-Chakraborty163/S-Chakraborty163/output/pacman-contribution-graph.svg">
 </picture>
 
 ### 🔝 Top Contributed Repo
