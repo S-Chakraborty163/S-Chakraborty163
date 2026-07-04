@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a visual language model..
+- 🔭 I’m currently working on a LLM system.
 - 🌱 I’m currently learning GEN-AI and LLMs
 - 👯 I’m looking to collaborate on image vision or LLMs
 - 💬 Ask me about deep learning, LLMs
