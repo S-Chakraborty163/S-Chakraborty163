@@ -20,8 +20,8 @@ jobs:
       - name: Generate Pac-Man contribution graph
         uses: AndreRuperto/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.PAT_TOKEN }}
+          github_user_name: "S-Chakraborty163"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: github-dark
       
       - name: Push to output branch
